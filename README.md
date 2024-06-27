@@ -16,5 +16,6 @@ TagYourFood 是一個旨在幫助用戶標記和管理食物的應用程式。�
    ```bash
    git clone https://github.com/TonyHuang0327/TagYourFood.git
 2. 進入專案目錄：
+   ```bash
    cd TagYourFood
 
