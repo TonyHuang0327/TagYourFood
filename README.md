@@ -12,6 +12,9 @@ TagYourFood 是一個旨在幫助用戶標記和管理食物的應用程式。�
 ## 安裝
 請按照以下步驟來安裝和運行這個專案：
 
-1. 克隆這個儲存庫到本地：
+1. 複製這個儲存庫到本地：
    ```bash
    git clone https://github.com/TonyHuang0327/TagYourFood.git
+2. 進入專案目錄：
+   cd TagYourFood
+
