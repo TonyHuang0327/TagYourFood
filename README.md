@@ -22,4 +22,4 @@ TagYourFood 是一個使用 PHP 開發的食品登錄和飲食管理網站。用
 ## 安裝
 
 1. 複製專案
-   git clone https://github.com/TonyHuang0327/TagYourFood.git
+   'git clone https://github.com/TonyHuang0327/TagYourFood.git'
