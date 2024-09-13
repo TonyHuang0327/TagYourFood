@@ -27,6 +27,6 @@ TagYourFood 是一個使用 PHP 開發的食品登錄和飲食管理網站。用
    ```
 2. 移動至專案資料夾中
    ```
-   cd "C:\xampp\htdocs\DBproject"
+   cd "C:\xampp\htdocs\project"
    ```
    
