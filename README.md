@@ -29,7 +29,7 @@ TagYourFood 是一個使用 PHP 開發的食品登錄和飲食管理網站。用
    ```
    cd "C:\xampp\htdocs\專案資料夾名稱"
    ```
-3. 將資料庫匯入phpmyadmin
+3. 將資料庫匯入phpmyadmin\n
    [a1093310.sql](https://github.com/TonyHuang0327/TagYourFood/compare/main...database)
 5. 在瀏覽器輸入
    ```
