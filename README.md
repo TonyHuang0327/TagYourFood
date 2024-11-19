@@ -16,7 +16,7 @@ TagYourFood 是一個使用 PHP 開發的食品登錄和飲食管理網站。用
 
 - 後端：PHP
 - 資料庫：MySQL
-- 前端：HTML, CSS, JavaScript
+- 前端：HTML
 - 伺服器：Apache
 
 ## 安裝
